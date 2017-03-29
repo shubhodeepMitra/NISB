@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "85314315843",
+    "firebase_url": "https://nisb-51f32.firebaseio.com",
+    "project_id": "nisb-51f32",
+    "storage_bucket": "nisb-51f32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85314315843:android:61cc123973ddd01b",
+        "android_client_info": {
+          "package_name": "com.mitrastudios.www.nisb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85314315843-01uv4d2vtu80g5m902dmu0r2p9h8im7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHISv6c5BgbpSlqwwnRQTFAELjl7sYCIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
